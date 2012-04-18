@@ -1,0 +1,8 @@
+Pela inspiração:
+http://www.youtube.com/watch?v=0pxalnA_HX8
+
+Pelo Código:
+http://forum.codecall.net/topic/65950-pixel-perfect-collision-detection-use-for-your-java-games/
+
+Pela Motivação:
+Turma SENAI Téc/Art. 2012 3ª Fase 
